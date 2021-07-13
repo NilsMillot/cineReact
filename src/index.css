@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Amiri:400,700');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
